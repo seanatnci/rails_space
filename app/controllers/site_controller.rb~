@@ -1,0 +1,12 @@
+class SiteController < ApplicationController
+  layout  "common"
+  def index
+  end
+
+  def about
+  end
+
+  def help
+  end
+
+end
